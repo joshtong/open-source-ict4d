@@ -22,21 +22,24 @@ This list does not in any way represent an endorsement of technologies, organiza
 * [Country- or project-specific tools & deployments](#country-project)
 
 ## <a name="how-to-edit"></a>How to edit this list
-1. Create a [GitHub account](https://github.com/).
-2. Return to [this list](https://github.com/joshtong/open-source-ict4d/blob/master/README.md) and click the pencil icon (next to the trash can).
+1. [Create a GitHub account](https://github.com/).
+2. [Return to this list](https://github.com/joshtong/open-source-ict4d/blob/master/README.md) and click the pencil icon (next to the trash can).
 3. Edit the list by adding, deleting, or correcting an item.
 4. Scroll to the bottom of the page. Describe the change that you've made and click the "Propose file change" button.
 5. On the next screen, click the "Create pull request" button.
 6. On the discussion page that appears, click the "Create pull request" button.
-7. I will review the changes before incorporating them.
+7. I will review and incorporate the changes.
 
 You may also propose an edit by going to the [Issues section](https://github.com/joshtong/open-source-ict4d/issues), clicking the "New issue" button, and describing the change that you'd like to incorporate in the list.
 
 Please use the following format when submitting an ICT4D platform or tool:
 
 > Name of platform or tool
+
 > Short description of the platform or tool (one or two sentences)
+
 > GitHub: URL
+
 > Website: URL
 
 ## <a name="info-collection-visualization"></a>Information collection and data visualization
