@@ -6,6 +6,8 @@ This list does not in any way represent an endorsement of technologies, organiza
 
 ## Information collection and data visualization
 ### Open Data Kit
-“Open Data Kit (ODK) is a free and open-source set of tools which help organizations author, field, and manage mobile data collection solutions.”
+“Open Data Kit (ODK) is a free and open-source set of tools which help organizations author, field, and manage mobile data collection solutions” [(source)](https://opendatakit.org/).
+
 Source code: [https://code.google.com/p/opendatakit/](https://code.google.com/p/opendatakit/)
+
 Website: [http://opendatakit.org/](http://opendatakit.org/)
