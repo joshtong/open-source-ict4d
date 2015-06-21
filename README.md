@@ -4,7 +4,24 @@ Let’s compile a list of open-source platforms and tools for ICT4D (information
 
 This list does not in any way represent an endorsement of technologies, organizations, or approaches. 
 
-## Information collection and data visualization
+# Contents
+* [Information collection and data visualization](#info-collection-visualization) 
+* [IT infrastructure](#it-infrastructure)
+* [Mapmaking](#mapmaking)
+* [SMS (short message service)](#sms)
+* [Voice services](#voice-services)
+* [Sector-specific tools](#sector-specific)
+  * [Agriculture](#agriculture)
+  * [Education](#education)
+  * [Emergencies](#emergencies)
+  * [Health](#health)
+  * [Microfinance](#microfinance)
+  * [Peacebuilding and governance](#peacebuilding-governance)
+  * [Water and sanitation](#water-sanitation)
+* [Country- or project-specific tools & deployments](#country-project)
+
+
+## <a name="info-collection-visualization"></a>Information collection and data visualization
 ### Open Data Kit
 “Open Data Kit (ODK) is a free and open-source set of tools which help organizations author, field, and manage mobile data collection solutions” [(source)](https://opendatakit.org/).
 
@@ -19,7 +36,7 @@ GitHub: [https://github.com/ushahidi/Ushahidi_Web](https://github.com/ushahidi/U
 
 Website: [http://www.ushahidi.com/product/ushahidi/](http://www.ushahidi.com/product/ushahidi/)
 
-# IT infrastructure
+# <a name="it-infrastructure"></a>IT infrastructure
 ##Clonezilla
 “Imaging software is key to quickly rolling out large numbers of identical machines.... Clonezilla automates a number of complex imaging tasks, and can handle a wide variety of OS and partition types from FAT/FAT32 (Microsoft Windows) to ext3/ext4 (Linux) and more" [(source)](http://www.ictworks.org/2010/11/22/tech-tip-day-clonezilla-open-source-imaging-software-bootable-usb-stick/).
 
@@ -32,7 +49,7 @@ Website: [http://clonezilla.org/developers/](http://clonezilla.org/developers/)
 
 GitHub: [https://github.com/inveneo/poundcake](https://github.com/inveneo/poundcake)
 
-# Mapmaking
+# <a name="mapmaking"></a>Mapmaking
 ## Mapbox
 “[A] vector rendering framework for highly customizable and responsive client-side maps” [(source)](http://www.ictworks.org/2015/06/15/the-future-is-here-with-sensors-and-geospatial-analytics-in-international-development/).
 
@@ -61,7 +78,7 @@ GitHub: [https://github.com/instedd/resourcemap](https://github.com/instedd/reso
 
 Website: [http://resourcemap.instedd.org/en](http://resourcemap.instedd.org/en)
 
-# SMS (short message service)
+# <a name="sms"></a>SMS (short message service)
 ## FrontlineSMS
 “FrontlineSMS is a free open source software used by a variety of organizations to distribute and collect information via text messages (SMS). The software can work without an internet connection and with only a cell phone and computer” [(source)](https://en.wikipedia.org/wiki/FrontlineSMS).
 
@@ -76,7 +93,7 @@ GitHub: [https://github.com/RapidSMS/RapidSMS](https://github.com/RapidSMS/Rapid
 
 Website: [https://www.rapidsms.org/](https://www.rapidsms.org/)
 
-# Voice services
+# <a name="voice-services"></a>Voice services
 ## Verboice
 “Verboice is a free and open-source tool that makes it easy for anyone to create and run applications that interact via voice, allowing your users to listen and record messages in their own language and dialect or answer questions with a phone keypad” [(source)](http://instedd.org/technologies/verboice/).
 
@@ -84,11 +101,11 @@ GitHub: [https://github.com/instedd/verboice](https://github.com/instedd/verboic
 
 Website: [http://www.ilabsoutheastasia.org/technologies/verboice/](http://www.ilabsoutheastasia.org/technologies/verboice/)
 
-# Sector-specific tools
+# <a name="sector-specific"></a>Sector-specific tools
 
-## Agriculture
+## <a name="agriculture"></a>Agriculture
 
-## Education
+## <a name="education"></a>Education
 
 ### Fedena
 “Fedena is a free & opensource school management software that has more features than a student information system. Use Fedena to efficiently manage students, teachers, employees, courses & all the system & process related to your institution” [(source)](http://www.projectfedena.org/).
@@ -111,9 +128,9 @@ GitHub: [https://github.com/Tangerine-Community/Tangerine/tree/develop](https://
 
 Website: [http://www.tangerinecentral.org/](http://www.tangerinecentral.org/)
 
-## Emergencies
+## <a name="emergencies"></a>Emergencies
 
-## Health
+## <a name="health"></a>Health
 
 ### CommCare
 “CommCare replaces community health workers’ paper registers and flip charts with open-source software that runs on inexpensive phones” [(source [PDF])](http://www.usaid.gov/sites/default/files/documents/15396/USAID_Lab_The_Catalog_V1_5.pdf).
@@ -136,9 +153,9 @@ GitHub: [https://github.com/mehulsbhatt/opensis](https://github.com/mehulsbhatt/
 
 Website: [http://www.opensis.com/home](http://www.opensis.com/home)
 
-## Microfinance
+## <a name="microfinance"></a>Microfinance
 
-## Peacebuilding and governance
+## <a name="peacebuilding-governance"></a>Peacebuilding and governance
 
 ### NDItech DemTools
 “Our webapps support groups working for democracy, open government, and citizen rights around the globe. Designed with the needs of civic groups in the developing world in mind, these tools solve some of the most common problems faced by concerned citizens working to improve their societies” [(source)](https://www.nditech.org/demtools
@@ -148,7 +165,7 @@ GitHub: [https://github.com/nditech](https://github.com/nditech)
 
 Website: [https://www.nditech.org/demtools](https://www.nditech.org/demtools)
 
-## Water and sanitation
+## <a name="water-sanitation"></a>Water and sanitation
 
-# Country- or project-specific tools & deployments
+# <a name="country-project"></a>Country- or project-specific tools & deployments
 
