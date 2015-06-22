@@ -1,6 +1,6 @@
 # Open-source platforms and tools for ICT4D
 
-Let’s compile a list of open-source platforms and tools for ICT4D (information and communication technologies for development).
+Let’s compile a list of open-source platforms and tools for ICT4D (information and communication technologies for development). A list could help organizations around the world to identify gaps, avoid duplication, and improve existing solutions for international relief and development.
 
 This list does not in any way represent an endorsement of technologies, organizations, or approaches. 
 
@@ -125,6 +125,16 @@ Website: [http://www.ilabsoutheastasia.org/technologies/verboice/](http://www.il
 # <a name="sector-specific"></a>Sector-specific tools
 
 ## <a name="agriculture"></a>Agriculture
+
+### Solutions for Open Land Administration (SOLA) Project
+“Solutions for Open Land Administration (SOLA) Project is an open source software system that aims to make computerised cadastre and registration systems more affordable and more sustainable in developing countries” [(source)](http://www.flossola.org/).
+
+GitHub
+* Registry: [https://github.com/SOLA-FAO](https://github.com/SOLA-FAO)
+* State Land: [https://github.com/SOLA-SL-FAO](https://github.com/SOLA-SL-FAO)
+* Systematic Registration: [https://github.com/SOLA-SR-FAO](https://github.com/SOLA-SR-FAO)
+
+Website: [http://www.flossola.org/](http://www.flossola.org/)
 
 ## <a name="education"></a>Education
 
