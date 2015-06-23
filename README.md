@@ -162,7 +162,7 @@ Website: [http://www.tangerinecentral.org/](http://www.tangerinecentral.org/)
 ## <a name="emergencies"></a>Emergencies
 
 ### ReliefWeb Disaster Tracker
-“ReliefWeb is a… source [of] authoritative and vetted information about disasters and humanitarian crises. This application combines ReliefWeb's new REST API with a custom-built Twitter timeline-processing script to give authoritative, real-time updates on an occurring disaster.”
+“ReliefWeb is a… source [of] authoritative and vetted information about disasters and humanitarian crises. This application combines ReliefWeb's new REST API with a custom-built Twitter timeline-processing script to give authoritative, real-time updates on an occurring disaster” [(source)](https://github.com/reliefweb/disaster-tracker).
 
 GitHub: [https://github.com/reliefweb/disaster-tracker](https://github.com/reliefweb/disaster-tracker)
 
