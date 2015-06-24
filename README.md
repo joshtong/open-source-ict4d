@@ -52,6 +52,15 @@ Source code: [https://code.google.com/p/opendatakit/](https://code.google.com/p/
 
 Website: [http://opendatakit.org/](http://opendatakit.org/)
 
+
+## Sigmah
+Sigmah is open source software for the shared management of international aid projects. Its flexible and intuitive design allows organizations to structure and continually improve the methodological framework of their activities and thereby improve the Quality and Accountability of their projects. 
+Sigmah is the result of a participatory project run by a group of aid organizations.  Using Groupe URD’s expertise and that of our technical and voluntary partners, Steering Cooperative members are able to develop the Sigmah software in order to address expressed needs.
+
+Source code: [https://github.com/sigmah-dev/sigmah](https://github.com/sigmah-dev/sigmah)
+
+Website: [http://www.sigmah.org/]http://www.sigmah.org/)
+
 ## Ushahidi
 “Ushahidi is a platform that allows information collection, visualization and interactive mapping, allowing anyone to submit information through text messaging using a mobile phone, email or web form” [(source)](https://github.com/ushahidi/Ushahidi_Web).
 
