@@ -59,7 +59,7 @@ Sigmah is the result of a participatory project run by a group of aid organizati
 
 Source code: [https://github.com/sigmah-dev/sigmah](https://github.com/sigmah-dev/sigmah)
 
-Website: [http://www.sigmah.org/]http://www.sigmah.org/)
+Website: [http://www.sigmah.org/](http://www.sigmah.org/)
 
 ## Ushahidi
 “Ushahidi is a platform that allows information collection, visualization and interactive mapping, allowing anyone to submit information through text messaging using a mobile phone, email or web form” [(source)](https://github.com/ushahidi/Ushahidi_Web).
