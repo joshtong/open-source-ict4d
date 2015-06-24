@@ -4,6 +4,8 @@ Let’s compile a list of open-source platforms and tools for ICT4D (information
 
 This list does not in any way represent an endorsement of technologies, organizations, or approaches. 
 
+For more details about this project, see this [blog post](http://www.joshtong.net/blog/lets-create-a-list-of-open-source-tools-for-ict4d/).
+
 ## Contents
 * [How to edit this list](#how-to-edit)
 * [Information collection and data visualization](#info-collection-visualization) 
