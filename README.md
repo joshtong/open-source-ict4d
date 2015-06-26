@@ -11,6 +11,7 @@ For more details about this project, see this [blog post](http://www.joshtong.ne
 * [Data collection and analysis](#data-collection-analysis) 
 * [IT infrastructure](#it-infrastructure)
 * [Mapmaking](#mapmaking)
+* [Project management](#project-management)
 * [SMS (short message service)](#sms)
 * [Voice services](#voice-services)
 * [Sector-specific tools](#sector-specific)
@@ -69,15 +70,6 @@ Source code: [https://code.google.com/p/opendatakit/](https://code.google.com/p/
 
 Website: [http://opendatakit.org/](http://opendatakit.org/)
 
-
-## Sigmah
-Sigmah is open source software for the shared management of international aid projects. Its flexible and intuitive design allows organizations to structure and continually improve the methodological framework of their activities and thereby improve the Quality and Accountability of their projects. 
-Sigmah is the result of a participatory project run by a group of aid organizations.  Using Groupe URD’s expertise and that of our technical and voluntary partners, Steering Cooperative members are able to develop the Sigmah software in order to address expressed needs.
-
-Source code: [https://github.com/sigmah-dev/sigmah](https://github.com/sigmah-dev/sigmah)
-
-Website: [http://www.sigmah.org/](http://www.sigmah.org/)
-
 ## Ushahidi
 “Ushahidi is a platform that allows information collection, visualization and interactive mapping, allowing anyone to submit information through text messaging using a mobile phone, email or web form” [(source)](https://github.com/ushahidi/Ushahidi_Web).
 
@@ -86,12 +78,17 @@ GitHub: [https://github.com/ushahidi/Ushahidi_Web](https://github.com/ushahidi/U
 Website: [http://www.ushahidi.com/product/ushahidi/](http://www.ushahidi.com/product/ushahidi/)
 
 # <a name="it-infrastructure"></a>IT infrastructure
-##Clonezilla
+## Clonezilla
 “Imaging software is key to quickly rolling out large numbers of identical machines.... Clonezilla automates a number of complex imaging tasks, and can handle a wide variety of OS and partition types from FAT/FAT32 (Microsoft Windows) to ext3/ext4 (Linux) and more" [(source)](http://www.ictworks.org/2010/11/22/tech-tip-day-clonezilla-open-source-imaging-software-bootable-usb-stick/).
 
 GitHub: [https://github.com/stevenshiau/clonezilla](https://github.com/stevenshiau/clonezilla)
 
 Website: [http://clonezilla.org/developers/](http://clonezilla.org/developers/)
+
+## Online Offline Publication System
+“A collection of Python and Javascript libraries for creating websites, web manuals and other web applications with ‘offline’ features” [(source)](https://code.google.com/p/online-offline-ps/). 
+
+Google Code: https://code.google.com/p/online-offline-ps/
 
 ## TowerDB
 “Initially built as a tool to help support a single project in Haiti, TowerDB has grown to a full-fledged application built to aid in the design and management of large-scale wireless networks” [(source)](http://www.ictworks.org/2013/08/07/inveneos-network-management-software-now-available-to-the-public/).
@@ -126,6 +123,23 @@ Website: http://www.qgis.org/en/site/
 GitHub: [https://github.com/instedd/resourcemap](https://github.com/instedd/resourcemap)
 
 Website: [http://resourcemap.instedd.org/en](http://resourcemap.instedd.org/en)
+
+# <a name="project-management"></a>Project management
+
+### Gong
+“GONG (Gestión para ONGs) es una aplicación para gestión de ONGs de cooperación, es decir, enfocada para ONGDs (‘D’ de desarrollo)” [(source)](https://gong.org.es/projects).
+
+Instructions: [http://www.redmine.org/guide](http://www.redmine.org/guide)
+
+Website: [https://gong.org.es/](https://gong.org.es/)
+
+## Sigmah
+Sigmah is open source software for the shared management of international aid projects. Its flexible and intuitive design allows organizations to structure and continually improve the methodological framework of their activities and thereby improve the Quality and Accountability of their projects. 
+Sigmah is the result of a participatory project run by a group of aid organizations.  Using Groupe URD’s expertise and that of our technical and voluntary partners, Steering Cooperative members are able to develop the Sigmah software in order to address expressed needs.
+
+Source code: [https://github.com/sigmah-dev/sigmah](https://github.com/sigmah-dev/sigmah)
+
+Website: [http://www.sigmah.org/](http://www.sigmah.org/)
 
 # <a name="sms"></a>SMS (short message service)
 ## FrontlineSMS
@@ -190,7 +204,7 @@ Website: [http://www.tangerinecentral.org/](http://www.tangerinecentral.org/)
 ## <a name="emergencies"></a>Emergencies
 
 ### RapidFTR
-“RapidFTR is a versatile open-source mobile phone application and data storage system that… [helps] humanitarian workers collect, sort and share information about unaccompanied and separated children in emergency situations so they can be registered for care services and reunited with their families” [(source)](http://www.rapidftr.com/)
+“RapidFTR is a versatile open-source mobile phone application and data storage system that… [helps] humanitarian workers collect, sort and share information about unaccompanied and separated children in emergency situations so they can be registered for care services and reunited with their families” [(source)](http://www.rapidftr.com/).
 
 Instructions: [http://www.rapidftr.com/developer-info/](http://www.rapidftr.com/developer-info/)
 
