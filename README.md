@@ -8,7 +8,7 @@ For more details about this project, see this [blog post](http://www.joshtong.ne
 
 ## Contents
 * [How to edit this list](#how-to-edit)
-* [Information collection and data visualization](#info-collection-visualization) 
+* [Data collection and analysis](#data-collection-analysis) 
 * [IT infrastructure](#it-infrastructure)
 * [Mapmaking](#mapmaking)
 * [SMS (short message service)](#sms)
@@ -44,7 +44,24 @@ Please use the following format when submitting an ICT4D platform or tool:
 
 > Website: URL
 
-## <a name="info-collection-visualization"></a>Information collection and data visualization
+## <a name="data-collection-analysis"></a>Data collection and analysis
+
+### KoBo Toolbox
+“KoBoToolbox is a suite of tools for field data collection for use in challenging environments…. Most of our users are people working in humanitarian crises, as well as aid professionals and researchers working in developing countries” [(source)](http://www.kobotoolbox.org/).
+
+Instructions: [http://support.kobotoolbox.org/customer/portal/articles/1691105-using-kobotoolbox-offline](http://support.kobotoolbox.org/customer/portal/articles/1691105-using-kobotoolbox-offline)
+
+GitHub: [https://github.com/kobotoolbox](https://github.com/kobotoolbox)
+
+Website: [http://www.kobotoolbox.org/](http://www.kobotoolbox.org/)
+
+### Microsoft Data Gathering (also known as Nokia Data Gathering)
+The goal is to provide a “fast, accurate, cost effective and user-friendly way to collect data using mobile devices.” [(source)](https://www.microsoftdatagathering.net/).
+
+GitHub: [https://github.com/nokiadatagathering](https://github.com/nokiadatagathering)
+
+Website: [https://www.microsoftdatagathering.net/](https://www.microsoftdatagathering.net/)
+
 ### Open Data Kit
 “Open Data Kit (ODK) is a free and open-source set of tools which help organizations author, field, and manage mobile data collection solutions” [(source)](https://opendatakit.org/).
 
@@ -171,6 +188,15 @@ GitHub: [https://github.com/Tangerine-Community/Tangerine/tree/develop](https://
 Website: [http://www.tangerinecentral.org/](http://www.tangerinecentral.org/)
 
 ## <a name="emergencies"></a>Emergencies
+
+### RapidFTR
+“RapidFTR is a versatile open-source mobile phone application and data storage system that… [helps] humanitarian workers collect, sort and share information about unaccompanied and separated children in emergency situations so they can be registered for care services and reunited with their families” [(source)](http://www.rapidftr.com/)
+
+Instructions: [http://www.rapidftr.com/developer-info/](http://www.rapidftr.com/developer-info/)
+
+GitHub: [https://github.com/rapidftr](https://github.com/rapidftr)
+
+Website: [http://www.rapidftr.com/](http://www.rapidftr.com/)
 
 ### ReliefWeb Disaster Tracker
 “ReliefWeb is a… source [of] authoritative and vetted information about disasters and humanitarian crises. This application combines ReliefWeb's new REST API with a custom-built Twitter timeline-processing script to give authoritative, real-time updates on an occurring disaster” [(source)](https://github.com/reliefweb/disaster-tracker).
