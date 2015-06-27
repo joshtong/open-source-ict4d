@@ -1,6 +1,6 @@
 # Open-source platforms and tools for ICT4D
 
-Let’s compile a list of open-source platforms and tools for ICT4D (information and communication technologies for development). A list of open-source solutions could help relief and development organizations to discover free platforms and tools, extend existing solutions, and avoid duplicating each other’s work. It could also help organizations avoid getting locked into long-term relationships with individual vendors.
+Let’s compile a list of open-source platforms and tools for <a href="http://www.worldbank.org/en/topic/ict">ICT4D</a> (information and communication technologies for development). A list of open-source solutions could help <a href="https://www.devex.com/news/global-development-what-you-need-to-know-74999">relief and development</a> organizations to discover free platforms and tools, extend existing solutions, and avoid duplicating each other’s work. It could also help organizations avoid getting locked into long-term relationships with individual vendors.
 
 This list does not in any way represent an endorsement of technologies, organizations, or approaches. 
 
