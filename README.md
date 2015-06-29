@@ -12,6 +12,7 @@ For more details about this project, see this [blog post](http://www.joshtong.ne
 * [IT infrastructure](#it-infrastructure)
 * [Mapmaking](#mapmaking)
 * [Project management](#project-management)
+* [Satellite imagery](#satellite-imagery)
 * [SMS (short message service)](#sms)
 * [Voice services](#voice-services)
 * [Sector-specific tools](#sector-specific)
@@ -147,6 +148,14 @@ Sigmah is the result of a participatory project run by a group of aid organizati
 Source code: [https://github.com/sigmah-dev/sigmah](https://github.com/sigmah-dev/sigmah)
 
 Website: [http://www.sigmah.org/](http://www.sigmah.org/)
+
+## <a name="satellite-imagery"></a>Satellite imagery
+## Libra
+"Libra is an open-source, Landsat-8 imagery browser. It relies on landsat-api and an AngularJS-designed GUI to allow users to browse, sort, and download more than 275 Terabytes of open Landsat imagery" [(source)](https://github.com/joshtong/open-source-ict4d).
+
+GitHub: [https://github.com/joshtong/open-source-ict4d](https://github.com/joshtong/open-source-ict4d)
+
+Website: [https://developmentseed.org/projects/libra/](https://developmentseed.org/projects/libra/)
 
 ## <a name="sms"></a>SMS (short message service)
 ### FrontlineSMS
