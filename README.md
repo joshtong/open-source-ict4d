@@ -7,7 +7,9 @@ This list does not in any way represent an endorsement of technologies, organiza
 For more details about this project, see this [blog post](http://www.joshtong.net/blog/lets-create-a-list-of-open-source-tools-for-ict4d/).
 
 ## Contents
-* [How to edit this list](#how-to-edit)
+[How to edit this list](#how-to-edit)
+
+The list
 * [Cybersecurity](#cybersecurity)
 * [Data collection and analysis](#data-collection-analysis) 
 * [IT infrastructure](#it-infrastructure)
