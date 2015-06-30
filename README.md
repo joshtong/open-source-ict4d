@@ -8,6 +8,7 @@ For more details about this project, see this [blog post](http://www.joshtong.ne
 
 ## Contents
 * [How to edit this list](#how-to-edit)
+* [Cybersecurity](#cybersecurity)
 * [Data collection and analysis](#data-collection-analysis) 
 * [IT infrastructure](#it-infrastructure)
 * [Mapmaking](#mapmaking)
@@ -45,6 +46,8 @@ Please use the following format when submitting an ICT4D platform or tool:
 > GitHub: URL
 
 > Website: URL
+
+## Cybersecurity
 
 ## <a name="data-collection-analysis"></a>Data collection and analysis
 
