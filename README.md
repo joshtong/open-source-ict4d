@@ -201,6 +201,14 @@ Website: [http://www.flossola.org/](http://www.flossola.org/)
 
 ### <a name="education"></a>Education
 
+#### eXeLearning
+
+“eXeLearning is an open source content authoring tool that makes it easy to author and share interactive education resources online or offline: content can include text, images, audio, video, multi choice quizzes, fill in the blank, drop down exercises, image galleries and more.“
+
+Source: [https://forja.cenatic.es/scm/?group_id=197](https://forja.cenatic.es/scm/?group_id=197)
+
+Website: [http://www.exelearning.net](www.exelearning.net)
+
 #### Fedena
 “Fedena is a free & opensource school management software that has more features than a student information system. Use Fedena to efficiently manage students, teachers, employees, courses & all the system & process related to your institution” [(source)](http://www.projectfedena.org/).
 
@@ -221,6 +229,13 @@ Website: [https://www.openemis.org/](https://www.openemis.org/)
 GitHub: [https://github.com/Tangerine-Community/Tangerine/tree/develop](https://github.com/Tangerine-Community/Tangerine/tree/develop)
 
 Website: [http://www.tangerinecentral.org/](http://www.tangerinecentral.org/)
+
+#### Ustad Mobile
+"An open source mobile learning platform that works offline that supports low cost feature phones, Android devices and PCs." 
+
+GitHub: [(https://www.github.com/UstadMobile/UstadMobile)](https://www.github.com/UstadMobile/UstadMobile)
+
+Website: [https://www.ustadmobile.com/](https://www.ustadmobile.com)
 
 ### <a name="emergencies"></a>Emergencies
 
