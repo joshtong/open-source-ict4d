@@ -12,6 +12,7 @@ For more details about this project, see this [blog post](http://www.joshtong.ne
 The list:
 * [Cybersecurity](#cybersecurity)
 * [Data collection and analysis](#data-collection-analysis) 
+* [Humanitarian Aid](#humanitarian-aid)
 * [IT infrastructure](#it-infrastructure)
 * [Mapmaking](#mapmaking)
 * [Project management](#project-management)
@@ -89,6 +90,21 @@ Website: [http://opendatakit.org/](http://opendatakit.org/)
 GitHub: [https://github.com/ushahidi/Ushahidi_Web](https://github.com/ushahidi/Ushahidi_Web)
 
 Website: [http://www.ushahidi.com/product/ushahidi/](http://www.ushahidi.com/product/ushahidi/)
+## <a name="humanitarian-aid"></a>Humanitarian Aid
+
+### Commidty Tracking System (CTS)
+A remote verification and monitoring system in order to track and report on the movement of goods to ensure that the intended beneficiaries receive them. The monitoring system makes use of creative, remote monitoring methods (such as mobile data collection, QR coding and GPS mapping) that integrates with a web application for administration, management and reporting on the status of shipments.
+
+GitHub: [https://github.com/theirc/CTS](https://github.com/theirc/CTS)
+
+Website: No public site available, each implementation is unique.
+
+### Service Info
+A tool that allows both service providers to register their services online and beneficiaries to both discover those services on a map and give feedback on them.
+
+GitHub: [https://github.com/theirc/ServiceInfo](https://github.com/theirc/ServiceInfo)
+
+Website: [https://github.com/theirc/ServiceInfo](https://github.com/theirc/ServiceInfo)
 
 ## <a name="it-infrastructure"></a>IT infrastructure
 ### Clonezilla
@@ -176,6 +192,13 @@ Website: [http://www.frontlinesms.com/](http://www.frontlinesms.com/)
 GitHub: [https://github.com/RapidSMS/RapidSMS](https://github.com/RapidSMS/RapidSMS)
 
 Website: [https://www.rapidsms.org/](https://www.rapidsms.org/)
+
+### SmartElect
+“The world's first SMS voter registration system.” [(source)](https://smartelect.com/).
+
+GitHub: [https://github.com/SmartElect/SmartElect](https://github.com/SmartElect/SmartElect)
+
+Website: [http://smartelect.com/](http://smartelect.com/)
 
 ## <a name="voice-services"></a>Voice services
 ### Verboice
